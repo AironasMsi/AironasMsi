@@ -31,10 +31,10 @@ I architect and deploy production-grade **AI pipelines, autonomous business agen
 
 | System | Primary Domain | Core Architecture & Stack | Live Demo & Source |
 |:---|:---|:---|:---:|
-| 🎬 **SceneUI Pro** | Autonomous AI Cinema & Multi-GPU Narrative Workstation | Python, FastAPI, WebSockets, WhisperX Phoneme Sync, ComfyUI Distributed Farm, FFmpeg Hardware Mux | [**Repository**](https://github.com/AironasMsi/SceneUI-Pro) |
-| 🎨 **SpatialStudio Pro** | Autonomous Social Media Visual Factory & Curation Desk | Python, FastAPI, Headless ComfyUI, Ollama (Llama 3), Perceptual Hashing (pHash), Meta Graph API | [**Repository**](https://github.com/AironasMsi/SpatialStudio-Pro) |
-| ⚡ **Cloud CRM Agent** | 24/7 Cloud Operations Engine & Bi-Directional Email Bridge | Python, Discord.py, Oracle Cloud VPS, aiosqlite (WAL), IMAP/SMTP SSL, systemd Daemon | [**Repository**](https://github.com/AironasMsi/Cloud-CRM-Agent) |
-| 🎮 **Clash of Eras** | Commercial RTS Strategy Title & Multiplayer State Sync | JavaScript ES6+, HTML5 Canvas 60 FPS, Python Socket Server, Poki / CrazyGames Packaging | [🕹️ **Play Live Demo**](https://zyron-interactive.itch.io/clash-of-eras) • [**Repository**](https://github.com/AironasMsi/Clash-of-Eras) |
+| 🎬 **SceneUI Pro** | Autonomous AI Cinema & Multi-GPU Narrative Workstation | Python, FastAPI, WebSockets, WhisperX Phoneme Sync, ComfyUI Distributed Farm, FFmpeg Hardware Mux | [**Explore Repository**](https://github.com/AironasMsi/SceneUI-Pro) |
+| 🎨 **SpatialStudio Pro** | Autonomous Social Media Visual Factory & Curation Desk | Python, FastAPI, Headless ComfyUI, Ollama (Llama 3), Perceptual Hashing (pHash), Meta Graph API | [**Explore Repository**](https://github.com/AironasMsi/SpatialStudio-Pro) |
+| ⚡ **Cloud CRM Agent** | 24/7 Cloud Operations Engine & Bi-Directional Email Bridge | Python, Discord.py, Oracle Cloud VPS, aiosqlite (WAL), IMAP/SMTP SSL, systemd Daemon | [**Explore Repository**](https://github.com/AironasMsi/Cloud-CRM-Agent) |
+| 🎮 **Clash of Eras** | Commercial RTS Strategy Title & Multiplayer State Sync | JavaScript ES6+, HTML5 Canvas 60 FPS, Python Socket Server, Poki / CrazyGames Packaging | [🕹️ **Play Live Demo**](https://zyron-interactive.itch.io/clash-of-eras) • [**Explore Repository**](https://github.com/AironasMsi/Clash-of-Eras) |
 
 ---
 
@@ -52,13 +52,8 @@ Media & Real-Time:  FFmpeg (NVENC Hardware Acceleration), yt-dlp, Canvas 2D Cont
 
 <div align="center">
 
-### 📊 GitHub Activity & System Telemetry
+### 📫 Contact & Communications
 
-<img src="https://github-readme-stats.vercel.app/api?username=AironasMsi&show_icons=true&theme=radical&hide_border=true&count_private=true" height="165" alt="Aironas GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AironasMsi&layout=compact&theme=radical&hide_border=true&count_private=true" height="165" alt="Top Languages" />
-
-<br><br>
-
-📫 **Contact & Collaboration:** [aironas.zitkus@gmail.com](mailto:aironas.zitkus@gmail.com) • [LinkedIn / Portfolio](https://github.com/AironasMsi)
+[![Email: aironasmsi@gmail.com](https://img.shields.io/badge/Email-aironasmsi%40gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:aironasmsi@gmail.com)
 
 </div>
